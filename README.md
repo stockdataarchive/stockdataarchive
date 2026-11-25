@@ -1,4 +1,4 @@
-# Stock Data Archive
+<a href="https://stockdataarchive.com"><img src="https://raw.githubusercontent.com/stockdataarchive/stock-data-archive/main/docs/assets/logo-lockup-ink.png" alt="Stock Data Archive" width="420"></a>
 
 ### [stockdataarchive.com](https://stockdataarchive.com)
 
